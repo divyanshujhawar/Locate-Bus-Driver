@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "891100711023",
+    "firebase_url": "https://college-bus-service.firebaseio.com",
+    "project_id": "college-bus-service",
+    "storage_bucket": "college-bus-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891100711023:android:d827a664b6642b26",
+        "android_client_info": {
+          "package_name": "com.example.dell.buslocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891100711023-4tmh0favp4i4gr14b07odls5hq07s06l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.buslocator",
+            "certificate_hash": "314844a38c4ceae7b65d2c96712a1d2544413bcd"
+          }
+        },
+        {
+          "client_id": "891100711023-stjtar2koprn93u95q26t4envkjuphpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3HcWNh8WAIMAVdr1LvOZ74-gRAau4nQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891100711023-rrcbh13ihvcisq68n9m1lo8b75mrnihd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "light.sample"
+              }
+            },
+            {
+              "client_id": "891100711023-stjtar2koprn93u95q26t4envkjuphpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891100711023:android:9f02164b5c8bdc3d",
+        "android_client_info": {
+          "package_name": "com.example.dell.findbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891100711023-emra4626bsuk3ae7ar04sn96d98f0clt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.findbus",
+            "certificate_hash": "314844a38c4ceae7b65d2c96712a1d2544413bcd"
+          }
+        },
+        {
+          "client_id": "891100711023-stjtar2koprn93u95q26t4envkjuphpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3HcWNh8WAIMAVdr1LvOZ74-gRAau4nQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891100711023-rrcbh13ihvcisq68n9m1lo8b75mrnihd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "light.sample"
+              }
+            },
+            {
+              "client_id": "891100711023-stjtar2koprn93u95q26t4envkjuphpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
